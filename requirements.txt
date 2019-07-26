@@ -1,2 +1,1 @@
 Flask==1.0.3
-fastai==1.0.53.post2
